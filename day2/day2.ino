@@ -3,7 +3,7 @@
 /**
  * Reads all sequential integers in a string.
  * Will translate their value from string to int.
- * @param passwords A pointer to our progressive pointer that is being moved through the list.
+ * @param passwords A pointeWr to our progressive pointer that is being moved through the list.
  * @return An integer representation of the value read from the string.
  */
 uint8_t read_integer(const char **passwords)

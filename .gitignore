@@ -1,1 +1,5 @@
 .vscode/
+.vs/
+__vm/
+*.vcxproj*
+Debug/
